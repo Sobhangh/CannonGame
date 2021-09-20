@@ -1,5 +1,5 @@
 # CannonGame
-
+This game is built using the Godot engine.
 This is a game where you should try to shoot in to the baskets.
 In order to move the cannon use the right and left arrows.
 In order to rotate the cannon use "W" and "S" keys.
